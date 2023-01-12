@@ -1,8 +1,6 @@
 {
-    "app_id": "gh-test-ncqyy",
     "config_version": 20210101,
     "name": "gh-test",
-    "location": "US-VA",
-    "provider_region": "aws-us-east-1",
+    "location": "US-OR",
     "deployment_model": "LOCAL"
 }
